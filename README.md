@@ -1,4 +1,4 @@
-# Property-Price-Prediction-using-Predictive-Analytics
+# Property price Prediction using-Predictive Analytics
 
 Property Price Prediction using Predictive Analytics is a machine learning-based solution designed to estimate real estate property values accurately by analyzing historical housing data and key property attributes. The system evaluates factors such as property area, number of bedrooms, bathrooms, location, and other relevant features to predict market prices and support data-driven decision-making.
 
